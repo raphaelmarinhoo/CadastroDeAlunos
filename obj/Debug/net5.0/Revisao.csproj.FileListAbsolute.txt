@@ -1,0 +1,16 @@
+/home/raphael/Studying/Revisao/bin/Debug/net5.0/Revisao
+/home/raphael/Studying/Revisao/bin/Debug/net5.0/Revisao.deps.json
+/home/raphael/Studying/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.json
+/home/raphael/Studying/Revisao/bin/Debug/net5.0/Revisao.runtimeconfig.dev.json
+/home/raphael/Studying/Revisao/bin/Debug/net5.0/Revisao.dll
+/home/raphael/Studying/Revisao/bin/Debug/net5.0/ref/Revisao.dll
+/home/raphael/Studying/Revisao/bin/Debug/net5.0/Revisao.pdb
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/Revisao.csproj.AssemblyReference.cache
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfoInputs.cache
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/Revisao.AssemblyInfo.cs
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/Revisao.csproj.CoreCompileInputs.cache
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/Revisao.dll
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/ref/Revisao.dll
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/Revisao.pdb
+/home/raphael/Studying/Revisao/obj/Debug/net5.0/Revisao.genruntimeconfig.cache
